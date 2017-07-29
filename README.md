@@ -23,4 +23,4 @@ WikiCUI wikies repeatedly for each wikipedia of your designated languages, and s
 
 ## Author
 
-[Yuchiki](https://github.com/yuchiki1000yen)
+[Yuchiki](https://github.com/yuchiki)
